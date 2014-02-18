@@ -1,0 +1,11 @@
+<key>CFBundleURLTypes</key>
+<array>
+	<dict>
+		<key>CFBundleURLName</key>
+		<string>com.hcpti.uport</string>
+		<key>CFBundleURLSchemes</key>
+		<array>
+			<string>uport</string>
+		</array>
+	</dict>
+</array>
